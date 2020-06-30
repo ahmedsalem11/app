@@ -1,0 +1,161 @@
+*{margin:0px; padding:0px;}
+body{
+	background-image:url('b2.jpg');
+	background-size:cover;
+}
+.ahmed{	
+	width:1170px;
+	margin:auto;
+}
+.a1{text-align:center}
+.a1 span{
+	font-size:70px;
+	font-weight:bold;
+	color:#FFF;
+	padding-top:100px;
+	display:block;
+}
+.a1 h6{
+	font-size:20px;
+	color:#FFF;
+	padding-bottom:90px;
+}
+.a2{	
+	width:100%;
+	height:400px;
+	background-image:url('b7.jpg');
+	background-size:100% 100%;
+}
+.a3{
+	background-color:#FFF;
+	text-align:center;
+}
+.a3 h2{
+	font-size:30px;
+	font-weight:bold;
+	padding-top:70px;
+}
+.a3 h2 span{
+	border-bottom:1px solid #666;
+	padding-bottom:5px;
+}
+.a3 h6{
+	font-size:20px; 
+	color:#999; 
+	opacity:.4;
+	padding:10px; 
+}
+.a3 .c1{
+	font-size:19px;
+	text-align:left;
+	padding:150px 0px 40px 50px;
+	color:#999; 
+	opacity:.6;
+}
+.a3 .c2{
+	font-size:19px;
+	text-align:left;
+	padding:0px 0px 100px 50px;
+	color:#999; 
+	opacity:.6;
+}
+.c3{
+	height:750px;	
+	background-color:#222;
+	text-align:center;
+}
+.c4{
+	width:87%;
+	background-color:black;
+	margin:auto;
+}
+.c4 h2 {
+		font-size:30px;
+		font-weight:bold;
+		color:#FFF;
+		padding-top:30px;
+}
+.c4 span{
+	border-bottom: 2px solid #444;
+	padding-bottom:10px;
+}
+.c4 h6{
+	font-size:15;
+	color:#999; 
+	opacity:.4;
+	margin-top:20px;
+}
+.c5{padding-top:30px;}
+.c5 img{width:50%;}
+.z1{
+	width:50%;
+	height:400px;
+	background-image:url('b7.jpg');
+	background-size:cover;	
+	float:left;
+}
+.z2{
+	width:50%;
+	height:400px;
+	background-color:#FFF;
+	text-align:left;
+	float:right;
+}
+.z2 h2 {padding:110px 0px 0px 110px}
+.z2 p {
+	padding:10px 0px 0px 110px;	
+	color:#999; 
+	opacity:.7;}	
+.z3{
+	width:50%;
+	height:400px;
+	background-color:#222;
+	text-align:right;
+	float:left;
+}
+.z3 h2{padding:110px 110px 0px 0px;color:#FFF;}
+.z3 p{
+	font-size:17px;
+	color:#999; 
+	opacity:.5;
+	padding:10px 110px 0px 0px;
+	}	
+.z4{	
+	width:50%;
+	height:400px;
+	background-image:url('b5.jpg');
+	background-size:cover;
+	float:right;		
+}
+.z5{
+	width:50%;
+	height:400px;
+	background-image:url('b1.jpg');
+	background-size:cover;
+	float:left;
+}
+.z6{
+	width:50%;
+	height:400px;
+	background-color:#FFF;
+	float:right;
+}
+.z6 h2{padding:110px 0px 0px 110px;color:#111;}
+.z6 p{
+	color:#999; 
+	opacity:.9;
+	padding:10px 0px 0px 110px;
+}
+.l1{
+	height:150px;
+	text-align:center;
+	clear:both;
+	color:#999;
+}
+.l1 i{
+	font-size:35px;
+	padding-top:50px;
+	padding-bottom:30px;
+}
+.l1 h6{font-size:15px;}
+change your email settings
